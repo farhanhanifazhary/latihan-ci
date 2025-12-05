@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261185774805771495/03ed174c784c42719a58c50b4cad48c8/artifacts
+end_time: 1764734634153
+entry_point_name: ''
+experiment_id: '261185774805771495'
+lifecycle_stage: active
+run_id: 03ed174c784c42719a58c50b4cad48c8
+run_name: unruly-asp-822
+run_uuid: 03ed174c784c42719a58c50b4cad48c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764734624913
+status: 3
+tags: []
+user_id: hanif

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ec38578485f2436aa77684f452c201af/artifacts
+end_time: 1764735605163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ec38578485f2436aa77684f452c201af
+run_name: amazing-sheep-20
+run_uuid: ec38578485f2436aa77684f452c201af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764735596543
+status: 3
+tags: []
+user_id: hanif

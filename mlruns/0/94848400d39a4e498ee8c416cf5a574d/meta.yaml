@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/94848400d39a4e498ee8c416cf5a574d/artifacts
+end_time: 1764735544321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94848400d39a4e498ee8c416cf5a574d
+run_name: magnificent-rat-22
+run_uuid: 94848400d39a4e498ee8c416cf5a574d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764735538283
+status: 4
+tags: []
+user_id: hanif

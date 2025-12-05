@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/261185774805771495/63eecc8be6894c3aaed3fb9b8c7ac8fd/artifacts
+end_time: 1764735033756
+entry_point_name: ''
+experiment_id: '261185774805771495'
+lifecycle_stage: active
+run_id: 63eecc8be6894c3aaed3fb9b8c7ac8fd
+run_name: elastic_search_10_4
+run_uuid: 63eecc8be6894c3aaed3fb9b8c7ac8fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764735029522
+status: 3
+tags: []
+user_id: hanif
